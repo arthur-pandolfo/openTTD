@@ -1,0 +1,1 @@
+coordinates.json taken from https://github.com/kelvins/Municipios-Brasileiros.git (MIT license)
